@@ -1,9 +1,9 @@
 # Advent of Code 2025
 
-Solutions for the [2025](https://adventofcode.com/2025) Advent of Code problems in [Zig](https://ziglang.org)
-
 [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](https://ziglang.org/)
 [![Completion](https://img.shields.io/badge/completion-33.33%25-orange)](#Progress)
+
+Solutions for the [2025](https://adventofcode.com/2025) Advent of Code problems in [Zig](https://ziglang.org)
 
 ## Progress
 
@@ -24,4 +24,9 @@ Solutions for the [2025](https://adventofcode.com/2025) Advent of Code problems 
 
 ## Usage
 
-Copy the `template` directory to each new day, download the input files and then run `zig run answer.zig`
+```shell
+$ cp -R template/ dayN/
+
+// Running
+$ zig run answer.zig -Doptimize=ReleaseFast
+```
