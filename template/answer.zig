@@ -4,9 +4,9 @@ const print = std.debug.print;
 const input_test = @embedFile("input-test.txt");
 const input = @embedFile("input.txt");
 
-fn part1(file_input: []const u8) !i64 {
+fn part1(file_input: []const u8) !u64 {
     var it = std.mem.tokenizeScalar(u8, file_input, '\n');
-    var ans: i64 = 0;
+    var ans: u64 = 0;
     while (it.next()) |line| {
         _ = line;
         ans += 1;
@@ -14,9 +14,9 @@ fn part1(file_input: []const u8) !i64 {
     return ans;
 }
 
-fn part2(file_input: []const u8) !i64 {
+fn part2(file_input: []const u8) !u64 {
     var it = std.mem.tokenizeScalar(u8, file_input, '\n');
-    var ans: i64 = 0;
+    var ans: u64 = 0;
     while (it.next()) |line| {
         _ = line;
         ans += 1;
