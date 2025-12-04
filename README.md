@@ -9,10 +9,10 @@ Solutions for the [2025](https://adventofcode.com/2025) Advent of Code problems 
 
 | Day | Title | Part 1 | Time | Part 2 | Time |
 |-----|-------|--------|------|--------|------|
-| [1](https://adventofcode.com/2025/day/1) | Secret Entrance | ⭐ | 0.06ms | ⭐ | 0.07ms |
-| [2](https://adventofcode.com/2025/day/2) | Gift Shop | ⭐ | 10.59ms | ⭐ | 21.17ms |
-| [3](https://adventofcode.com/2025/day/3) | Lobby | ⭐ | 0.26ms | ⭐ | 0.37ms |
-| [4](https://adventofcode.com/2025/day/4) | Printing Department | ⭐ | 1.15ms | ⭐ | 11.86ms |
+| [1](https://adventofcode.com/2025/day/1) | Secret Entrance | ⭐ | `0.06ms` | ⭐ | `0.07ms` |
+| [2](https://adventofcode.com/2025/day/2) | Gift Shop | ⭐ | `10.59ms` | ⭐ | `21.17ms` |
+| [3](https://adventofcode.com/2025/day/3) | Lobby | ⭐ | `0.26ms` | ⭐ | `0.37ms` |
+| [4](https://adventofcode.com/2025/day/4) | Printing Department | ⭐ | `1.15ms` | ⭐ | `11.86ms` |
 | 5 | | | | | |
 | 6 | | | | | |
 | 7 | | | | | |
