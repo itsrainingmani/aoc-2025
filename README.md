@@ -15,7 +15,7 @@ Solutions for the [2025](https://adventofcode.com/2025) Advent of Code problems 
 | [4](https://adventofcode.com/2025/day/4) | Printing Department | ⭐ | `1.15ms` | ⭐ | `11.86ms` |
 | [5](https://adventofcode.com/2025/day/5) | Cafeteria | ⭐ | `1.40ms` | ⭐ | `0.44ms` |
 | [6](https://adventofcode.com/2025/day/6) | Trash Compactor | ⭐ | `0.64ms` | ⭐ | `0.67ms` |
-| 7 | | | | | |
+| [7](https://adventofcode.com/2025/day/7) | Laboratories | ⭐ | `0.50ms` | ⭐ | `0.26ms` |
 | 8 | | | | | |
 | 9 | | | | | |
 | 10 | | | | | |
