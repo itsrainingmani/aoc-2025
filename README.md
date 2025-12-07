@@ -1,7 +1,7 @@
 # Advent of Code 2025
 
 [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](https://ziglang.org/)
-[![Completion](https://img.shields.io/badge/completion-33.33%25-orange)](#Progress)
+[![Completion](https://img.shields.io/badge/completion-58.33%25-orange)](#Progress)
 
 Solutions for the [2025](https://adventofcode.com/2025) Advent of Code problems in [Zig](https://ziglang.org)
 
