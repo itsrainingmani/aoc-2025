@@ -1,7 +1,7 @@
 # Advent of Code 2025
 
 [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](https://ziglang.org/)
-[![Completion](https://img.shields.io/badge/completion-58.33%25-orange)](#Progress)
+[![Completion](https://img.shields.io/badge/completion-66.67%25-orange)](#Progress)
 
 Solutions for the [2025](https://adventofcode.com/2025) Advent of Code problems in [Zig](https://ziglang.org)
 
@@ -16,7 +16,7 @@ Solutions for the [2025](https://adventofcode.com/2025) Advent of Code problems 
 | [5](https://adventofcode.com/2025/day/5) | Cafeteria | ⭐ | `1.40ms` | ⭐ | `0.44ms` |
 | [6](https://adventofcode.com/2025/day/6) | Trash Compactor | ⭐ | `0.64ms` | ⭐ | `0.67ms` |
 | [7](https://adventofcode.com/2025/day/7) | Laboratories | ⭐ | `0.50ms` | ⭐ | `0.26ms` |
-| 8 | | | | | |
+| [8](https://adventofcode.com/2025/day/8) | Playground | ⭐ | `27.29ms` | ⭐ | `31.79ms` |
 | 9 | | | | | |
 | 10 | | | | | |
 | 11 | | | | | |
